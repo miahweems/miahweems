@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Miah Weems 👋
 
-<!--
-**miahweems/miahweems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from Missouri State University (2025), with a passion for building efficient, user-friendly software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+- 🎓 **B.S. in Computer Science**, Minor in Business, and Web Programming Certificate
+- 🧠 Strong in problem-solving, team collaboration, and project ownership
+
+---
+
+🧰 Tech Stack:
+- Java, C#, Python, C++, Kotlin
+- .NET Core, ASP.NET, WinForms
+- Git, GitHub
+- HTML/CSS/JS, Processing
+- SQL, SQLite
+
+---
+
+🛠️ Tools I Use:
+- Visual Studio / VS Code
+- IntelliJ
+- GitHub Projects
+  
+---
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/miah-weems-083a56290/)
+- [Email](mailto:miahweems@gmail.com)
+
+---
+
+Thanks for stopping by!
